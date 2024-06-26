@@ -14,7 +14,7 @@ export function SidebarBrand() {
   return (
     <Flex align='center' direction='column'>
       {/* <HorizonLogo h='26px' w='175px' my='32px' color={logoColor} /> */}
-      <Image height={"70%"} p={"10px"} src={"https://www.unlimitedhimalaya.com/back_end/images/logo.png"} alt="" />
+      <Image height={"70px"} p={"10px"} src={"https://www.unlimitedhimalaya.com/back_end/images/logo.png"} alt="" />
       <HSeparator mb='20px' />
     </Flex>
   );
